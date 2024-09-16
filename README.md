@@ -4,8 +4,9 @@
 
 **Wise Farming Chatbot** is an advanced chatbot designed to assist farmers with personalized recommendations and insights to improve farming practices. By leveraging cutting-edge natural language processing and machine learning techniques, this chatbot aims to optimize agricultural productivity and decision-making.
 
-/Users/vinutnaruni/Desktop/SS/Screenshot 2024-09-14 at 3.25.26 PM.png
-/Users/vinutnaruni/Desktop/SS/Screenshot 2024-09-14 at 3.27.29 PM.png
+<img width="770" alt="Screenshot 2024-09-14 at 3 25 26 PM" src="https://github.com/user-attachments/assets/69d2717d-43b4-4881-a853-441f290d47ec">
+<img width="733" alt="Screenshot 2024-09-14 at 3 27 29 PM" src="https://github.com/user-attachments/assets/acf9893d-7714-4dbb-85f8-63fd61c8420f">
+
 
 ## Key Features
 
