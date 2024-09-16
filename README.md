@@ -14,7 +14,7 @@
 - **Custom Greeting Messages:** Special responses for common greetings such as "hi" and "hello" to create a friendly and welcoming user experience.
 - **Loading Transition:** Smooth loading animation to enhance user experience while waiting for the chatbot's response.
 
-![Flowchart](path/to/your/flowchart.png) <!-- Replace with actual image path or URL -->
+
 
 ## Technologies Used
 
